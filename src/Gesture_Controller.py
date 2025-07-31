@@ -33,11 +33,7 @@ class Gest(IntEnum):
     THUMB = 16    
     PALM = 31
     
-    # Extra Mappings
-    V_GEST = 33
-    TWO_FINGER_CLOSED = 34
-    PINCH_MAJOR = 35
-    PINCH_MINOR = 36
+
 
 # Multi-handedness Labels
 class HLabel(IntEnum):
